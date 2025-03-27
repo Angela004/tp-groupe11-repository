@@ -1,5 +1,5 @@
 
-package TP.groupe11.newpackage.com.projets.connectionsample;
+package genie_lgiciel_tp.newpackage.com.projets.connectionsample;
 
 import java.sql.Connection;
 import java.sql.SQLException;

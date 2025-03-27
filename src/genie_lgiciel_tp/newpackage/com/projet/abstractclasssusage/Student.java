@@ -1,4 +1,3 @@
-
 package genie_lgiciel_tp.newpackage.com.projet.abstractclasssusage;
 
 import java.sql.PreparedStatement;
