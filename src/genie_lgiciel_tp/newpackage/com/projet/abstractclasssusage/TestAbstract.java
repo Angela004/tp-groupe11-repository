@@ -11,8 +11,8 @@ public class TestAbstract {
             //Premier employé
             Person e1 = new Employee();
             e1.setId(1);
-            e1.setFirstName("KATHUNGU");
-            e1.setLastName("AKEMANI");
+            e1.setFirstName("kibiswa");
+            e1.setLastName("josephe");
             ((Employee) e1).setCnss("23LIAGELJ1070766");
             int result1 = e1.add(e1);
             if (result1 > 0) {
